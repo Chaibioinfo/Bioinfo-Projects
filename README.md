@@ -14,7 +14,7 @@ This project analyzes complete cds Nipah virus genomes from India, Bangladesh & 
 - `niv virus tree/`: Newick tree + PNG of phylogeny
 - `scripts/`: Bioython used
 - `report/`: Summary of findings
-- To veiw the aligned file https://mafft.cbrc.jp/alignment/server/spool/_msaviewer.250528174429356rV5xAE2ydtzm9uc1OsRaHlsfnormal.html 
+- To veiw the aligned file https://mafft.cbrc.jp/alignment/server/spool/_ho.250529210224909B158QExw6OKMJa03ezFIulsfnormal.html   
 
 
  Key Results
