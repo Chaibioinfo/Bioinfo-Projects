@@ -9,27 +9,27 @@ The goal of this project is to perform a comparative genomic analysis of Nipah v
 * Build a visual phylogenetic tree to illustrate how the strains cluster and differ over time
 
 Methods
+
 Data Retrieval:
 Sequences were downloaded from NCBI GenBank using Biopython. Only complete CDS sequences from Indian, Bangladesh & singapore, and Malaysian strains were collected.
 
 Multiple Sequence Alignment:
-Performed using MAFFT. Aligned FASTA file was generated and used for further analysis.
+Performed using MAFFT. Aligned FASTA file was generated and used for further analysis. Mutation table was obtained from BV-BRC online protal.
 
 Phylogenetic Tree Construction:
 A Neighbor-Joining tree was built using MEGA software to determine evolutionary relationships.
 
 Results
-Total sequences analyzed: 81
-Length of aligned region: ~X bp
 
-Number of SNPs or mutations observed: X (describe a few)
+Total sequences analyzed: 80
+Alignment length: 18252
+Total SNP positions: 3391
+Total mutations: 3686
 
 Tree Findings:
 
 Indian strains cluster closer to [Bangladesh/Malaysia]
-
 Strain [XYZ] showed the highest divergence
-
 Bootstrap values (if used) indicate strong/weak confidence in certain branches
 
 (📎 You can insert a screenshot of the tree, or provide the Newick file)
