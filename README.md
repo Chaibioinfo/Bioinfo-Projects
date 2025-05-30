@@ -5,6 +5,7 @@ This project analyzes complete cds Nipah virus genomes from India, Bangladesh & 
  Tools Used
 - NCBI GenBank
 - MAFFT (Multiple Sequence Alignment)
+- BV-BRC tool (To obtain SNP table)
 - MEGA (Phylogenetic Tree)
 - Biopython (Data retrieval)
 
@@ -18,8 +19,8 @@ This project analyzes complete cds Nipah virus genomes from India, Bangladesh & 
 
 
  Key Results
-- Aligned 81 NiV strains
-- Found SNPs in the [G/F] gene
+- Aligned 80 NiV strains
+- Found 3686 total mutations & 3391 total SNP positions
 - Indian strains are closer to Bangladesh than Malaysia in tree
 
  Contact
