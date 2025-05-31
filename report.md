@@ -22,7 +22,7 @@ A Neighbor-Joining tree was built with bootstrap value of 1000 using MEGA softwa
 
 Results
 
-Total sequences analyzed: 80
+Total sequences analyzed: 80 (only complete genome)
 
 Alignment length: 18252
 
