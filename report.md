@@ -23,8 +23,11 @@ A Neighbor-Joining tree was built with bootstrap value of 1000 using MEGA softwa
 Results
 
 Total sequences analyzed: 80
+
 Alignment length: 18252
+
 Total SNP positions: 3391
+
 Total mutations: 3686
 
 Mutation analysis:
