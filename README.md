@@ -21,7 +21,7 @@ This project analyzes complete cds Nipah virus genomes from India, Bangladesh & 
  Key Results
 - Aligned 80 NiV strains
 - Found 3686 total mutations & 3391 total SNP positions
-- Indian strains are closer to Bangladesh than Malaysia in tree
+- Malasyian strains showed more divergence than the Indian and Bangladeshain strains.
 
  Contact
 If you’re working on viral genomics or need freelance support, feel free to connect!
